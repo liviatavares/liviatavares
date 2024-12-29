@@ -1,4 +1,4 @@
-=<p align="center">
+<p align="center">
   <img src="https://github.com/liviatavares/liviatavares/raw/main/assets/headergithub.gif" alt="Oi, eu sou a Lívia">
 </p>
 
