@@ -8,3 +8,4 @@
 
 - ⚡ Fun fact: **toco 3 instrumentos 🎹**
 
+![Snake animation](https://github.com/liviatavares/liviatavares/blob/output/github-contribution-grid-snake.svg)
