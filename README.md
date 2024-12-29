@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact: **toco 3 instrumentos 🎹**
 
+- 💻 Confira o github da minha buddy **Larissa**! 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviatavares/liviatavares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liviatavares/YourUser/liviatavares/github-contribution-grid-snake.svg">
