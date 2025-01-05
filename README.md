@@ -10,6 +10,9 @@
 
 - ⚡ fun fact: **toco 3 instrumentos 🎹**
 
+algumas **peculiaridades**:
+- costumo ser uma pessoa muito plural em artes e tenho vontade de testar tudo! isso, às vezes, me leva a hobbies estranhos (tenho mais de 300 dias no duolingo aprendendo russo - привет :) ) e a situações inusitadas (já apareci algumas vezes na TV cantando)!
+
 - 💻 confira *aqui* o github da minha buddy **Larissa**! https://github.com/larissamartinsz
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviatavares/liviatavares/output/github-contribution-grid-snake-dark.svg">
