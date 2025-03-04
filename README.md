@@ -8,7 +8,7 @@
 
 - 💬 fale comigo sobre **ciência e o universo!**
 
-- ⚡ fun fact: **toco 3 instrumentos 🎹**
+- ⚡ atualmente aprendendo **javascript e html**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviatavares/liviatavares/output/github-contribution-grid-snake-dark.svg">
