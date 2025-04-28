@@ -4,11 +4,11 @@
 
 - 😊 21 anos e uma **curiosa incurável**
 
-- 🌱 estudante do **inteli**
+- 🌱 estudante de ciências da computação do **inteli**
 
 - 💬 fale comigo sobre **ciência e o universo!**
 
-- ⚡ atualmente aprendendo **javascript e html**
+- ⚡ atualmente aprendendo **javascript, sql e html**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviatavares/liviatavares/output/github-contribution-grid-snake-dark.svg">
