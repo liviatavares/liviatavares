@@ -6,9 +6,7 @@
 
 - 🌱 estudante de ciências da computação do **inteli**
 
-- 💬 fale comigo sobre **ciência e o universo!**
-
-- ⚡ atualmente aprendendo **javascript, sql e html**
+- ⚡ atualmente aprendendo **python**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviatavares/liviatavares/output/github-contribution-grid-snake-dark.svg">
