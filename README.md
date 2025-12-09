@@ -6,7 +6,7 @@
 
 - 🌱 estudante de ciências da computação do **inteli**
 
-- ⚡ atualmente aprendendo **python**
+- ⚡ atualmente aprendendo **c++**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviatavares/liviatavares/output/github-contribution-grid-snake-dark.svg">
